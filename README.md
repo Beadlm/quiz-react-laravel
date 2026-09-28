@@ -1,14 +1,14 @@
 # quiz
 ## requirements:
-composer
-wampserver 
+composer <br>
+wampserver <br>
 
 ## launch
-- open front/ in cmd:
-npm install
-npm run dev
+- open front/ in cmd: <br>
+npm install <br>
+npm run dev <br>
 
-- open back/ in cmd:
-php artisan serve
+- open back/ in cmd: <br>
+php artisan serve <br>
 
 - go to the url that the front/ cmd gives you
