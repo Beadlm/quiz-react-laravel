@@ -2,6 +2,7 @@
 ## requirements:
 composer <br>
 wampserver <br>
+React <br>
 
 ## launch
 - open front/ in cmd: <br>
